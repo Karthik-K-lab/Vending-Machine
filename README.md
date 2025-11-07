@@ -17,6 +17,9 @@ The final cell contains the actual vending machine program. It is recommended to
 </p>
 
 <p>
+There might be some changes in these, could be optimized better too. This is a project for my just learning purpose.
+</p>
+<p>
 Feel free to explore and modify the code. Enjoy!🎮
 </p>
 
