@@ -13,7 +13,7 @@ The project is built and executed in Google Colab, and the code is provided in a
 <p>
 Each cell in the notebook contains comments💬 explaining what that part of the code does. 
 There are optional cells🔍 to view database tables or reset the data (delete records and delete tables), so run these if needed.
-The final cell contains the actual vending machine program. It is recommended to hide the cell's code and only use the output interface, if needed zoom out a little bit to cover the vending machine.
+The final cell contains the actual vending machine program. It is recommended to hide the cell's code and only use the output interface, if needed zoom out a little bit to cover the vending machine. To get into the machine for stock refuel, the hint for the password is in the code itself and easy to find. 
 </p>
 
 <p>
